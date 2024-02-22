@@ -6,7 +6,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
+    <div className='bg-gray-200'>
     <h2>to do
     </h2>
     <input type="text" />
